@@ -1,0 +1,167 @@
+[
+  {
+    "id": "cafe-aurora",
+    "name": "Café Aurora",
+    "description": "Cafetería de barrio con aroma a café recién molido, pan dulce y mesas junto a la ventana.",
+    "type": "cafeteria",
+    "position": [-8, 0, 32],
+    "rotationY": 3.141593,
+    "interactive": true,
+    "interiorId": "cafeteria",
+    "style": {
+      "width": 10, "depth": 9, "height": 7, "floors": 2,
+      "wallColor": "#f6c6a8", "roofColor": "#c4553f", "trimColor": "#fff4e6",
+      "windowColor": "#9fd8f0", "doorColor": "#7a4a32",
+      "roof": "gable", "awningColor": "#e8735a", "signColor": "#5b3a29", "chimney": true
+    },
+    "info": { "Horario": "7:00 – 20:00", "Especialidad": "Café de origen y croissants" }
+  },
+  {
+    "id": "biblioteca-municipal",
+    "name": "Biblioteca Municipal",
+    "description": "Edificio neoclásico con salas de lectura, estanterías infinitas y un domo de vidrio.",
+    "type": "biblioteca",
+    "position": [-30, 0, -10],
+    "rotationY": 1.570796,
+    "interactive": true,
+    "interiorId": "biblioteca",
+    "style": {
+      "width": 12, "depth": 10, "height": 9, "floors": 2,
+      "wallColor": "#ece4d2", "roofColor": "#6c86b8", "trimColor": "#fffaf0",
+      "windowColor": "#a9d6ec", "doorColor": "#4a3b2c",
+      "roof": "dome", "columns": true
+    },
+    "info": { "Horario": "8:00 – 18:00", "Colección": "12.000 libros" }
+  },
+  {
+    "id": "mercado-esquina",
+    "name": "Mercado La Esquina",
+    "description": "Tienda de abarrotes con frutas frescas en la entrada y precios de vecino.",
+    "type": "tienda",
+    "position": [8, 0, 32],
+    "rotationY": 3.141593,
+    "interactive": true,
+    "interiorId": null,
+    "style": {
+      "width": 10, "depth": 9, "height": 6, "floors": 2,
+      "wallColor": "#bfe3c0", "roofColor": "#5f8f6b", "trimColor": "#ffffff",
+      "windowColor": "#a8dcef", "doorColor": "#3f6b4f",
+      "roof": "flat", "awningColor": "#4f9d69", "signColor": "#2f5d43"
+    },
+    "info": { "Horario": "6:00 – 22:00", "Interior": "Próximamente" }
+  },
+  {
+    "id": "torre-horizonte",
+    "name": "Torre Horizonte",
+    "description": "Edificio de oficinas, el más alto de la ciudad.",
+    "type": "oficinas",
+    "position": [30, 0, -26],
+    "rotationY": -1.570796,
+    "interactive": false,
+    "interiorId": null,
+    "style": {
+      "width": 10, "depth": 10, "height": 26, "floors": 8,
+      "wallColor": "#a9c6de", "roofColor": "#7c93a8", "trimColor": "#e8f1f8",
+      "windowColor": "#d8f0ff", "doorColor": "#36495a",
+      "roof": "flat"
+    }
+  },
+  {
+    "id": "casa-celeste",
+    "name": "Casa Celeste",
+    "description": "Vivienda familiar con chimenea.",
+    "type": "casa",
+    "position": [-24, 0, 32],
+    "rotationY": 3.141593,
+    "interactive": false,
+    "interiorId": null,
+    "style": {
+      "width": 8, "depth": 8, "height": 6, "floors": 2,
+      "wallColor": "#a8d4e6", "roofColor": "#d9644a", "trimColor": "#ffffff",
+      "windowColor": "#fff3c4", "doorColor": "#8a5a3b",
+      "roof": "gable", "chimney": true
+    }
+  },
+  {
+    "id": "casa-girasol",
+    "name": "Casa Girasol",
+    "description": "Vivienda familiar con techo a cuatro aguas.",
+    "type": "casa",
+    "position": [24, 0, 32],
+    "rotationY": 3.141593,
+    "interactive": false,
+    "interiorId": null,
+    "style": {
+      "width": 8, "depth": 8, "height": 6, "floors": 2,
+      "wallColor": "#f7dc8b", "roofColor": "#b9573c", "trimColor": "#ffffff",
+      "windowColor": "#cdeaf7", "doorColor": "#5a7d6a",
+      "roof": "pyramid", "chimney": true
+    }
+  },
+  {
+    "id": "residencias-pinos",
+    "name": "Residencias Los Pinos",
+    "description": "Bloque de apartamentos con balcones.",
+    "type": "apartamentos",
+    "position": [-30, 0, -26],
+    "rotationY": 1.570796,
+    "interactive": false,
+    "interiorId": null,
+    "style": {
+      "width": 11, "depth": 11, "height": 16, "floors": 5,
+      "wallColor": "#f0b8b8", "roofColor": "#c98686", "trimColor": "#fff7f2",
+      "windowColor": "#cdeaf7", "doorColor": "#6b4040",
+      "roof": "flat"
+    }
+  },
+  {
+    "id": "panaderia-espiga",
+    "name": "Panadería La Espiga",
+    "description": "Horno de leña desde 1962. El pan sale a las 6 de la mañana.",
+    "type": "panaderia",
+    "position": [30, 0, -10],
+    "rotationY": -1.570796,
+    "interactive": true,
+    "interiorId": null,
+    "style": {
+      "width": 9, "depth": 9, "height": 7, "floors": 2,
+      "wallColor": "#f3d2a2", "roofColor": "#a0522d", "trimColor": "#fff8ec",
+      "windowColor": "#fff0c2", "doorColor": "#6b3f22",
+      "roof": "gable", "awningColor": "#d98c3f", "signColor": "#6b3f22", "chimney": true
+    },
+    "info": { "Horario": "5:30 – 19:00", "Recomendado": "Pan de bono y almojábanas" }
+  },
+  {
+    "id": "casa-cultura",
+    "name": "Casa de la Cultura",
+    "description": "Antiguo ayuntamiento con torre del reloj. Hoy acoge exposiciones y talleres.",
+    "type": "ayuntamiento",
+    "position": [-30, 0, 5],
+    "rotationY": 1.570796,
+    "interactive": true,
+    "interiorId": null,
+    "style": {
+      "width": 11, "depth": 10, "height": 9, "floors": 2,
+      "wallColor": "#e6d3b3", "roofColor": "#5a7d6a", "trimColor": "#fffaf0",
+      "windowColor": "#cfe8f3", "doorColor": "#4a3b2c",
+      "roof": "pyramid", "clockTower": true
+    },
+    "info": { "Construida": "1928", "Agenda": "Exposición de fotografía local" }
+  },
+  {
+    "id": "hotel-mirador",
+    "name": "Hotel Mirador",
+    "description": "Hotel boutique con vista al parque central.",
+    "type": "hotel",
+    "position": [30, 0, 5],
+    "rotationY": -1.570796,
+    "interactive": false,
+    "interiorId": null,
+    "style": {
+      "width": 11, "depth": 11, "height": 19, "floors": 6,
+      "wallColor": "#d6c6ef", "roofColor": "#9b86c4", "trimColor": "#ffffff",
+      "windowColor": "#e3f3ff", "doorColor": "#4b3d6b",
+      "roof": "flat", "awningColor": "#8a6fc4"
+    }
+  }
+]

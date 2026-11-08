@@ -1,0 +1,25 @@
+{
+  "buildings": {
+    "cafe-aurora": "assets/models/buildings/cafe-aurora.glb",
+    "biblioteca-municipal": "assets/models/buildings/biblioteca-municipal.glb",
+    "mercado-esquina": "assets/models/buildings/mercado-esquina.glb",
+    "torre-horizonte": "assets/models/buildings/torre-horizonte.glb",
+    "casa-celeste": "assets/models/buildings/casa-celeste.glb",
+    "casa-girasol": "assets/models/buildings/casa-girasol.glb",
+    "residencias-pinos": "assets/models/buildings/residencias-pinos.glb",
+    "panaderia-espiga": "assets/models/buildings/panaderia-espiga.glb",
+    "casa-cultura": "assets/models/buildings/casa-cultura.glb",
+    "hotel-mirador": "assets/models/buildings/hotel-mirador.glb"
+  },
+  "props": {
+    "tree": "assets/models/city/tree.glb",
+    "pine": "assets/models/city/pine.glb",
+    "bush": "assets/models/city/bush.glb",
+    "lamp": "assets/models/city/lamp.glb",
+    "bench": "assets/models/city/bench.glb",
+    "fountain": "assets/models/city/fountain.glb"
+  },
+  "characters": {
+    "personaje": "assets/models/characters/personaje.glb"
+  }
+}
